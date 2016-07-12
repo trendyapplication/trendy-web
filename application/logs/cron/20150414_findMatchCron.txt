@@ -1,0 +1,33 @@
+Cron running on time : 2015-04-14 22:45:03 
+
+
+Cron running on time : 2015-04-14 22:45:45 
+
+
+Cron running on time : 2015-04-14 22:45:48 
+
+
+Cron running on time : 2015-04-14 22:45:50 
+
+
+Cron running on time : 2015-04-14 22:46:20 
+
+
+Cron running on time : 2015-04-14 22:47:10 
+
+
+Cron running on time : 2015-04-14 22:48:41 
+
+
+Cron running on time : 2015-04-14 22:50:00 
+ Device List :-  User:58 :- APA91bE4QzN4gFo4g_a5yQQEGYH1nGpfHIMOX9M39NLZBF61kZC-NiBWPFer5_zMwDk-ueY3_cZwl2MZNjy3WHgLc3rxVhK3fpNIo1LGsQU4Fd2xLqLRgRfeOfxt2ozYIqRDJ8iYptyz5RqZOtUdwWVl-vb_6pRr9rtCJCRyDWKfCUFtQn-Bi6U ,  User:54 :- APA91bG6sUqEyW_4KQilKKNm1w7N-Vhzxw_MsvUZNPkKFw0wHlBM7jkaR-OQrlGmf89wgG7F63fJD1R9jkATAftSibI9FpPCBG8mVK3U8T1G3XcAl94hFDtBhZdCflOLtBNIeyA0M6GDov6wMRzCxIDc7SQv6yiRuSrgEh5M7F2rZ5phKc4-Jt0 , 
+
+Cron running on time : 2015-04-14 23:17:59 
+ Device List :-  User:58 :- APA91bE4QzN4gFo4g_a5yQQEGYH1nGpfHIMOX9M39NLZBF61kZC-NiBWPFer5_zMwDk-ueY3_cZwl2MZNjy3WHgLc3rxVhK3fpNIo1LGsQU4Fd2xLqLRgRfeOfxt2ozYIqRDJ8iYptyz5RqZOtUdwWVl-vb_6pRr9rtCJCRyDWKfCUFtQn-Bi6U ,  User:54 :- APA91bG6sUqEyW_4KQilKKNm1w7N-Vhzxw_MsvUZNPkKFw0wHlBM7jkaR-OQrlGmf89wgG7F63fJD1R9jkATAftSibI9FpPCBG8mVK3U8T1G3XcAl94hFDtBhZdCflOLtBNIeyA0M6GDov6wMRzCxIDc7SQv6yiRuSrgEh5M7F2rZ5phKc4-Jt0 , 
+
+Cron running on time : 2015-04-14 23:33:13 
+ Device List :-  User:58 :- APA91bE4QzN4gFo4g_a5yQQEGYH1nGpfHIMOX9M39NLZBF61kZC-NiBWPFer5_zMwDk-ueY3_cZwl2MZNjy3WHgLc3rxVhK3fpNIo1LGsQU4Fd2xLqLRgRfeOfxt2ozYIqRDJ8iYptyz5RqZOtUdwWVl-vb_6pRr9rtCJCRyDWKfCUFtQn-Bi6U ,  User:54 :- APA91bG6sUqEyW_4KQilKKNm1w7N-Vhzxw_MsvUZNPkKFw0wHlBM7jkaR-OQrlGmf89wgG7F63fJD1R9jkATAftSibI9FpPCBG8mVK3U8T1G3XcAl94hFDtBhZdCflOLtBNIeyA0M6GDov6wMRzCxIDc7SQv6yiRuSrgEh5M7F2rZ5phKc4-Jt0 , 
+
+Cron running on time : 2015-04-14 23:49:44 
+ Device List :-  User:58 :- APA91bE4QzN4gFo4g_a5yQQEGYH1nGpfHIMOX9M39NLZBF61kZC-NiBWPFer5_zMwDk-ueY3_cZwl2MZNjy3WHgLc3rxVhK3fpNIo1LGsQU4Fd2xLqLRgRfeOfxt2ozYIqRDJ8iYptyz5RqZOtUdwWVl-vb_6pRr9rtCJCRyDWKfCUFtQn-Bi6U ,  User:54 :- APA91bG6sUqEyW_4KQilKKNm1w7N-Vhzxw_MsvUZNPkKFw0wHlBM7jkaR-OQrlGmf89wgG7F63fJD1R9jkATAftSibI9FpPCBG8mVK3U8T1G3XcAl94hFDtBhZdCflOLtBNIeyA0M6GDov6wMRzCxIDc7SQv6yiRuSrgEh5M7F2rZ5phKc4-Jt0 , 
+

@@ -1,0 +1,24 @@
+Cron running on time : 2015-04-01 13:17:41 
+ Device List :- 
+
+Cron running on time : 2015-04-01 13:19:16 
+
+
+Cron running on time : 2015-04-01 13:19:59 
+ Device List :-  User:11 :-  ,  User:18 :-  , 
+
+Cron running on time : 2015-04-01 13:26:20 
+ Device List :-  User:11 :-  ,  User:18 :-  , 
+
+Cron running on time : 2015-04-01 13:29:23 
+ Device List :-  User:11 :-  ,  User:18 :-  , 
+
+Cron running on time : 2015-04-01 13:29:33 
+
+
+Cron running on time : 2015-04-01 13:41:44 
+
+
+Cron running on time : 2015-04-01 13:42:14 
+ Device List :-  User:11 :-  ,  User:18 :-  , 
+

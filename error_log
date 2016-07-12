@@ -1,0 +1,8 @@
+[11-Aug-2015 09:58:27 US/Eastern] PHP Fatal error:  Call to undefined method CI_Input::request() in /home/newagesme/public_html/trendyservice/application/controllers/admin/users.php on line 198
+[11-Aug-2015 09:58:47 US/Eastern] PHP Fatal error:  Call to undefined method CI_Input::request() in /home/newagesme/public_html/trendyservice/application/controllers/admin/users.php on line 198
+[11-Aug-2015 09:58:51 US/Eastern] PHP Fatal error:  Call to undefined method CI_Input::request() in /home/newagesme/public_html/trendyservice/application/controllers/admin/users.php on line 198
+[08-Sep-2015 06:14:19 US/Eastern] PHP Fatal error:  Call to undefined method User_model::insertOccasion() in /home/newagesme/public_html/trendyservice/application/controllers/admin/occasion.php on line 106
+[08-Sep-2015 06:18:02 US/Eastern] PHP Fatal error:  Call to undefined method User_model::insertOccasion() in /home/newagesme/public_html/trendyservice/application/controllers/admin/occasion.php on line 106
+[08-Sep-2015 06:18:31 US/Eastern] PHP Fatal error:  Call to undefined method User_model::insertOccasion() in /home/newagesme/public_html/trendyservice/application/controllers/admin/occasion.php on line 106
+[09-Dec-2015 03:45:26 US/Eastern] PHP Fatal error:  Call to a member function update_state() on a non-object in /home/newagesme/public_html/trendyservice/application/controllers/admin/state.php on line 109
+[09-Dec-2015 03:46:05 US/Eastern] PHP Fatal error:  Call to a member function update_state() on a non-object in /home/newagesme/public_html/trendyservice/application/controllers/admin/state.php on line 109

@@ -1,0 +1,45 @@
+Cron running on time : 2015-04-01 13:45:03 
+
+ \nCron running on time : 2015-04-01 13:46:48 
+
+ \nCron running on time : 2015-04-01 13:46:50 
+
+ \nCron running on time : 2015-04-01 13:46:51 
+
+ \nCron running on time : 2015-04-01 13:46:52 
+
+ \nCron running on time : 2015-04-01 13:46:53 
+
+ \nCron running on time : 2015-04-01 13:46:54 
+
+ \nCron running on time : 2015-04-01 13:46:55 
+
+ \nCron running on time : 2015-04-01 13:46:56 
+
+ \nCron running on time : 2015-04-01 13:46:57 
+
+ \nCron running on time : 2015-04-01 13:46:58 
+
+ \nCron running on time : 2015-04-01 13:47:00 
+
+ \nCron running on time : 2015-04-01 13:47:18 
+
+ \nCron running on time : 2015-04-01 13:50:33 
+
+ \nCron running on time : 2015-04-01 13:50:34 
+
+ \nCron running on time : 2015-04-01 13:50:35 
+
+ \nCron running on time : 2015-04-01 13:52:03 
+
+ \nCron running on time : 2015-04-01 13:52:25 
+ Device List :-  User:11 :-  ,  User:18 :-  , 
+ \nCron running on time : 2015-04-01 13:56:51 
+
+ \nCron running on time : 2015-04-01 13:57:10 
+
+ \nCron running on time : 2015-04-01 13:57:18 
+ Device List :-  User:11 :-  ,  User:18 :-  , 
+ \nCron running on time : 2015-04-01 13:57:18 
+ Device List :-  User:11 :-  ,  User:18 :-  , 
+ \n
